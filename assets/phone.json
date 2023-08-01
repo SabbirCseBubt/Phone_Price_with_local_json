@@ -1,0 +1,188 @@
+{
+
+  "phones": [
+
+    {
+      "phoneCategory": "I Phone",
+      "models": [{
+        "phoneName": "I phone 14 ",
+        "rating": 5,
+        "comment": "This SuperWidget is amazing! Highly recommended!",
+        "release date": "September 16, 2022 ",
+        "price": "131000",
+        "battery": "4000 amp",
+        " font camera": "Dual 12 Megapixel + SL 3D",
+        " back camera": "Dual 12+12 Megapixel",
+        "video ": "4K (2160p), gyro-EIS, Cinematic mode",
+        "ram": "6gb",
+        "rom": "128gb",
+        "Type": "Super AMOLED",
+        "sim": "Dual SIM (Nano-SIM and eSIM)",
+        "chipset": "Qualcomm SDM730 Snapdragon 730G (8 nm)",
+        "card slot": "microSDXC (dedicated slot)",
+        "protection": "Gorilla Glass front & back, aluminum frame",
+        "charging": "Fast Charging (50% in 30 minutes)USB Power Delivery 2.0",
+        "weight": "172 grams",
+        "colors": "Midnight, Purple, Starlight, Blue, Red",
+        "network": "2G, 3G, 4G, 5G"
+
+      },
+
+
+
+        {
+          "phoneName": "I phone 14 Pro Max",
+          "rating": 5,
+          "comment": "This SuperWidget is amazing! Highly recommended!",
+          "release date": "14 ",
+          "price": "131000",
+          "battery": "4000 amp",
+          " font camera": "Dual 12 Megapixel + SL 3D",
+          " back camera": "Quad 48+12+12 Megapixel + TOF 3D LiDAR scanner",
+          "video ": "4K (2160p), gyro-EIS, Cinematic mode",
+          "ram": "6gb",
+          "rom": "128gb",
+          "Type": "Super AMOLED",
+          "sim": "dual sim",
+          "chipset": "Qualcomm SDM730 Snapdragon 730G (8 nm)",
+          "card slot": "microSDXC (dedicated slot)",
+          "protection": "Gorilla Glass front & back, stainless steel frame",
+          "charging": "Fast Charging (50% in 30 minutes)USB Power Delivery 2.0",
+          "weight": "240 grams",
+          "colors": "Space Black, Silver, Gold, Deep Purple",
+          "network": "2G, 3G, 4G, 5G"
+        }
+
+
+
+
+
+
+
+      ]
+    },
+
+
+
+
+
+    {
+
+      "phoneCategory": "Real Me",
+      "models": [
+
+        {
+          "phoneName": "Real Me 8 Pro",
+          "rating": 5,
+          "comment": "This SuperWidget is amazing! Highly recommended!",
+          "release date": "25 March 2021 ",
+          "price": "27,990.00",
+          "battery": "4500 mAh battery",
+          " font camera": "16 MP",
+          " back camera": "108 MP,",
+          "video ": "4k",
+          "ram": "8gb",
+          "rom": "128gb",
+          "Type": "Super AMOLED",
+          "sim": "dual sim",
+          "chipset": "Qualcomm SM7125 Snapdragon 720G (8 nm)",
+          "card slot": "microSDXC (dedicated slot)",
+          "protection": "Super AMOLED capacitive touchscreen, 16M colors",
+          "charging": "60W- 100% in 44 min ",
+          "weight": "176 g (6.42 oz)",
+          "colors": "Midnight Black, Aurora Green & Sunrise Blue",
+          "network": "2G, 3G, 4G"
+
+        },
+
+
+
+
+
+        {
+          "phoneName": "Real Me 9 Pro",
+          "rating": 5,
+          "comment": "This SuperWidget is amazing! Highly recommended!",
+          "release date": "21 February 2022 ",
+          "price": "34,990.00",
+          "battery": "4500 mAh battery",
+          " font camera": "16 MP",
+          " back camera": "50 MP",
+          "video ": "4k",
+          "ram": "8gb",
+          "rom": "128gb",
+          "Type": "Super AMOLED",
+          "sim": "dual sim",
+          "chipset": "Qualcomm SDM730 Snapdragon 730G (8 nm)",
+          "card slot": "microSDXC (dedicated slot)",
+          "protection": "Glass Front (Gorilla Glass 5) & Glass Back",
+          "charging": "60W- 100% in 44 min ",
+          "weight": "182 g (6.42 oz)",
+          "colors": "Midnight Black, Aurora Green & Sunrise Blue",
+          "network": "2G, 3G, 4G, 5G"
+        }
+
+
+      ]
+    },
+    {
+
+      "phoneCategory": "Samsung",
+      "models": [
+
+        {
+          "phoneName": "Samsung Galaxy M04 ",
+          "rating": 5,
+          "comment": "This SuperWidget is amazing! Highly recommended!",
+          "release date": "16 December 2022 ",
+          "price": "14000",
+          "battery": "5000mAh battery",
+          " font camera": "5 MP",
+          " back camera": "13 MP,",
+          "video ": "4128 x 3096 Pixels",
+          "ram": "4gb",
+          "rom": "64gb",
+          "Type": "Super AMOLED",
+          "sim": "dual sim",
+          "chipset": "Mediatek MT6765 Helio P35 (12nm)",
+          "card slot": "microSDXC (dedicated slot)",
+          "protection": "Super AMOLED capacitive touchscreen, 16M colors",
+          "charging": "About 2:10 hours with 15W Charging ",
+          "weight": "176 g (6.42 oz)",
+          "colors": "Sea Glass Green & Shadow Blue",
+          "network": "2G, 3G, 4G"
+
+        },
+
+
+
+
+
+        {
+          "phoneName": "Samsung Galaxy A34 ",
+          "rating": 5,
+          "comment": "This SuperWidget is amazing! Highly recommended!",
+          "release date": "24 March 2023 ",
+          "price": "49,999",
+          "battery": "4500 mAh battery",
+          " font camera": "13mp",
+          " back camera": "48 MP",
+          "video ": "4k",
+          "ram": "8gb",
+          "rom": "128gb",
+          "Type": "Super AMOLED",
+          "sim": "dual sim",
+          "chipset": "Qualcomm SDM730 Snapdragon 730G (8 nm)",
+          "card slot": "microSDXC (dedicated slot)",
+          "protection": "Glass Front (Gorilla Glass 5) & Glass Back",
+          "charging": "Up to 1:30 hours with 25W Fast charging ",
+          "weight": "199 g (6.42 oz)",
+          "colors": "Midnight Black, Aurora Green & Sunrise Blue",
+          "network": "2G, 3G, 4G, 5G"
+        }
+
+
+      ]
+    }
+  ]
+}
